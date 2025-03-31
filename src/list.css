@@ -1,0 +1,14 @@
+.list-container {
+    text-align: left;
+    margin: auto;
+    width: fit-content;
+}
+
+.list-container li {
+    font-size: 18px;
+    margin: 5px;
+}
+
+.list-container li:first-child {
+    color: darkorange;
+}
