@@ -16,7 +16,6 @@ const Hobby1: React.FC = ()=> {
             <br/>
             <Table1/>
             <br/>
-            <h2>Your Favorite Games:</h2>
             <Form1/>
         </div>
     )

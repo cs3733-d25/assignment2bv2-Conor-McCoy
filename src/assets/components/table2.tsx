@@ -3,7 +3,7 @@ import React from "react"
 const Table2: React.FC = () => {
     return (
         <table className="table-container">
-            <caption><u>Meeting Times:</u></caption>
+            <caption><h2><u>Meeting Times:</u></h2></caption>
             <tr>
                 <th>Date</th>
                 <th>Day</th>
