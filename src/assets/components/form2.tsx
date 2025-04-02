@@ -42,7 +42,7 @@ const Form2: React.FC = () => {
                 <option>Sunday</option>
             </select>
             <br/> <br/>
-            <label>Comments:</label>
+            <label>Comments: </label>
             <input type="text"/>
             <br/> <br/>
             <button>Submit</button>
